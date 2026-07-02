@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'Claa_Teacher.dart';
+import 'Class_Teacher.dart';
 import 'Class_ClassRoom.dart';
 import 'Class_Staff.dart';
 import 'Class_Student.dart';

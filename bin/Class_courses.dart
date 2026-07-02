@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'Claa_Teacher.dart';
+import 'Class_Teacher.dart';
 
 class Course {
   String? _courseCode;
